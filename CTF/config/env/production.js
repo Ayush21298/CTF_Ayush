@@ -34,5 +34,12 @@ module.exports = {
   // log: {
   //   level: "silent"
   // }
+models: {
+
+     connection: 'mongo'
+
+  },
+
+  port: 2000
 
 };
